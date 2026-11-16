@@ -10,3 +10,4 @@ reports/bonus_hidden.json
 eval/instructor/
 .DS_Store
 student_drop/
+.env
